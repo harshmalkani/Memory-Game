@@ -40,7 +40,7 @@ public:
     
 void CreateBoard()                                                      // 1. prints the column headings, 2.then underlines the headings and then 3.fills the board with default characters 
 {
-    int k=0;            // of no use 
+    int k=0;            
     cout<<"\n\n\n\n";
     cout<<"\t\t";
     for(int i=0;i<4;i++)                                                // 1.
